@@ -1,0 +1,19 @@
+input:
+gender 
+age
+weight
+height 
+
+
+BMI display betweeen what number is ideal whether they are within the numbers or not. 
+display ideal weight - current weight
+
+
+
+
+Purpose of calculating protein:
+Weight Loss or Muscle Gain
+
+
+list for age and gender of protein intake 
+get protein list based on different food from file:
